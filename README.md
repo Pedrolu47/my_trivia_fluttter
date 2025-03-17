@@ -124,7 +124,7 @@ Este proyecto está licenciado bajo la Licencia MIT - ver el archivo LICENSE par
 
 
 
-Enlace del proyecto: <https://github.com/Pedrolu47/trivia_challenge>
+Enlace del proyecto: <[https://github.com/Pedrolu47/trivia_challenge](https://github.com/Pedrolu47/my_trivia_fluttter)>
 
 Agradecimientos
 Open Trivia Database por proporcionar la API gratuita
